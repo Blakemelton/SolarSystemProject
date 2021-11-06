@@ -12,11 +12,11 @@ public class Main {
 
 
         FeatureSun mikeSun = new FeatureSun();
-        mikeSun.color="blue";
+        mikeSun.color="Red";
         mikeSun.heat="696945830302 degrees";
-        mikeSun.temp="2 degrees celsius";
-        mikeSun.radius="0.009";
-        mikeSun.maritalStatus = "single";
+        mikeSun.temp="2 degrees kelvin";
+        mikeSun.radius="9000800700km";
+        mikeSun.maritalStatus = "in love";
 
 
 
