@@ -19,6 +19,16 @@ public class Main {
         mikeSun.maritalStatus = "in love";
 
 
+        //adding planet1 features
+
+        Planet1 astranout = new Planet1();
+        astranout.size =" 234234km";
+        astranout.color="red";
+        astranout.relationshipStatus="its complicated";
+        
+
+
+
 
     }
 }
