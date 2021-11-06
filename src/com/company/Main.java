@@ -19,6 +19,12 @@ public class Main {
         mikeSun.maritalStatus = "in love";
 
 
+        Planet2 bastronaut = new Planet2();
+        bastronaut.size="2482349234km";
+        bastronaut.color="orange";
+        bastronaut.status = "its complicated";
+        
+
 
     }
 }
